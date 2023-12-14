@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\Planner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\Planner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\Planner.csproj",
+        "projectName": "Planner",
+        "projectPath": "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\Planner.csproj",
+        "packagesPath": "C:\\Users\\1234\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\1234\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "CalcBinding": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

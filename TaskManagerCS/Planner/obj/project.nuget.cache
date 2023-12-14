@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "3A3I8I+IAUMP2HDcoMu/NIuKI16HCt1Xrmeu01vi2pMdSUHSF4Fk6f2VuSVpv6QG+P/Iv0X3Fs9pvrP4QMLHVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1234\\Desktop\\MVVM-Planner-master\\Planner\\Planner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1234\\.nuget\\packages\\calcbinding\\2.5.2\\calcbinding.2.5.2.nupkg.sha512",
+    "C:\\Users\\1234\\.nuget\\packages\\dynamicexpresso.core\\2.3.1\\dynamicexpresso.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\1234\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\1234\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "У пакета \"Newtonsoft.Json\" 12.0.3 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-arm64",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}
